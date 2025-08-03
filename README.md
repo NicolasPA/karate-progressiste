@@ -1,2 +1,3 @@
-# karate-progressiste
-Une vision critique et progressiste du karate
+# Karaté progressiste
+
+Une vision critique et progressiste du karaté

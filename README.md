@@ -58,11 +58,27 @@ Une vision critique au service du progrès du karaté Shotokan
    Shotokan a pu être présenté comme un moyen de promouvoir la discipline, la force mentale et physique,
    ainsi que l'harmonie sociale. Dans ce contexte, les techniques de combat plus concretes, ou violentes ont été
    minimisées pour favoriser une image plus positive d'un karate au service de la formation de bons citoyens modernes.
-4. .
+Ath4. Le focus ne pouvant plus etre mis sur l'efficacité réelle, le Shotokan s'est develope sur d'autres angles,
+   en particulier, l'athlétisme. Sous l'impulsion du fils Funakoshi (citation?), Les positions se sont allongées et
+   les coups de pieds hauts se sont developpes, alors qu'ils sont en general consideres comme trop risqués en
+   auto-défense.
+5. Funakoshi integrant le son karate au budo, s'est probablement inspire du kendo. Du combat au sabre pourrait venir
+   l'idée du kumite a longue distance, principalement en ligne droit et avec une attaque decisive (ippon shobu) dont
+   derive aussi le kumite des competitions WKF, qui
+   stoppent le combat a chaque attribution de points. Dans un context realiste, l'idee qu'une seule touche de sabre
+   puisse suffire pourrait etre convaincante, mais dans un combat a main nue, que ce soit en competition de plein
+   contact
+   ou en autodefense, il est peu probable que cela suffise, comme on peut l'observer sur les nombreuses competitions  
+   filmées. A moins d'un ecart de niveau tres important, les matchs se terminent tres rarement a la premiere touche.
+   La recherche de la technique decisive est donc une strategie risquee qui ne devrait pas etre la principale enseignee
+   si l'objectif est de former a l'efficacite au combat reel.
+
+70 ans plus tard, ne faut-il pas deconstruire ces limites historiques et reprendre l'evolution du Shotokan?
 
 ## Les points forts de la pratique actuelle à préserver
 
-1. L'esthetique qui n'est pas inutile, car elle aide à la conservation, transmission et creation d'une identité attractive. De
+1. L'esthetique qui n'est pas inutile, car elle aide à la conservation, transmission et creation d'une identité
+   attractive. De
    la même manière que les fables ou les poèmes épiques (l'Épopée de Gilgamesh, l'Odyssée, le Ramayana ...) des temps
    anciens dont la beaute a participe au fait quíls soient parvenus jusqu'à nous.
    Ref: etude sur le rôle de l'esthétique dans la transmission des savoirs et des cultures ?
@@ -72,14 +88,18 @@ Une vision critique au service du progrès du karaté Shotokan
 
 ## Les 3 aspects
 
-Une maniere de reconcilier toutes ces critiques et ces points forts est peut etre de bien identifier et nommer trois 
+Une maniere de reconcilier toutes ces critiques et ces points forts est peut etre de bien identifier et nommer trois
 aspects aux objectifs distincts, en general complémentaires mais parfois contradictoires du karaté moderne:
 
 1. La tradition: conservation d'un savoir, d'une esthetique. Formation du citoyen, preservation de la sante.
 2. La competition: devenir champion, faire face a la pression et a l'inconnu.
 3. L'autodéfense : s'en sortir dans une situation d'aggression réelle.
 
-Bien les nommer permet d'eviter les confusions sur ce a quoi leur pratique est destinée. 
-Par exemple eviter que des eleves ne croient qu'en pratiquant uniquement des kumite conventionnels, ils seront 
-capables de faire fasse a un pratiquant de boxe thai (avec le meme nombre d'heures de pratique) ou a un agresseur dans 
+Bien les nommer permet d'eviter les confusions sur ce a quoi leur pratique est destinée.
+Par exemple eviter que des eleves ne croient qu'en pratiquant uniquement des kumite conventionnels, ils seront
+capables de faire fasse a un pratiquant de boxe thai (avec le meme nombre d'heures de pratique) ou a un agresseur dans
 la rue.
+
+Je suggere donc de clairement ennoncer avant chaque exercices sur quel aspect ou aspects, si plusieurs, il porte.
+Ainsi, un eleve pratiquant un kihon ippon kumite en partant d'un zenkutsu-dachi gedan barai, se vera clarifier qu'il
+s'agit d'un exercice de tradition, et non de competition ou d'autodéfense.

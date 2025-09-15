@@ -77,7 +77,7 @@ Ath4. Le focus ne pouvant plus etre mis sur l'efficacité réelle, le Shotokan s
 
 ## Les points forts de la pratique actuelle à préserver
 
-1. L'esthetique qui n'est pas inutile, car elle aide à la conservation, transmission et creation d'une identité
+1. L'esthétique qui n'est pas inutile, car elle aide à la conservation, transmission et creation d'une identité
    attractive. De
    la même manière que les fables ou les poèmes épiques (l'Épopée de Gilgamesh, l'Odyssée, le Ramayana ...) des temps
    anciens dont la beaute a participe au fait quíls soient parvenus jusqu'à nous.

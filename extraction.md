@@ -71,22 +71,21 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
   à subir une contre-attaque même quand on pense avoir realisé une technique decisive.
 - Limiter ses techniques à celles des katas et un nombre restreint de techniques approuvées par la hiérarchie.
   Les katas et la tradition devraient etre une source d'inspiration et non une source de limitations. Si des techniques
-  font preuve de leur efficacite dans le sport de contact de haut niveau ou chez les professionnels de la securite,
-  elles devraient etre intégrées au karaté. Certains de ses techniques sont plus ou moins identifiables dans les katas,
-  on peut souvent en deduire que "tout est deja dans le karate", mais si elles ne pas suffisemment pratiquees pour etre
+  font preuve de leur efficacité dans le sport de contact de haut niveau ou chez les professionnels de la sécurité,
+  elles devraient etre intégrées au karaté. Certaines de ces techniques sont plus ou moins identifiables dans les katas,
+  on peut souvent en deduire que "tout est deja dans le karaté", mais si elles ne pas suffisemment pratiquées pour être 
   appliquees en combat sous pression, c'est comme si elles n'existaient pas.
-  mais elles sont trop peu pratiques pour etre appliquees en combat.
   Ex:
     - low-kicks (gedan mawashi/yoko/mae/mikazuki geri)
-    - frappes en crochet (hook, long hook) et montante (upper cut)
+    - frappes en crochet (hook, long hook) et montantes (upper cut)
     - esquives de buste
-    - protection passives par la garde haute, les epaules montees, les coudes serres
+    - protection passives par la garde haute, les epaules montées, les coudes serrés 
     - techniques de lutte, clinch
     - techniques de projections
     - techniques de soumission etc.
 - L'appui sur les talons qui est contre-intuitif pour du combat pied-poing. L'appui sur les demi-pointes est bien plus
-  adapté au deplacements rapides et aux pivots pour esquiver ou frapper. On voit bien l'évolution entre les competitions
-  kumite JKA qui tentent de maintenir une esthétique traditionnelle et le kumite WKF qui est laisse
+  adapté aux déplacements rapides et aux pivots pour esquiver ou frapper. On voit bien l'évolution entre les competitions
+  kumite JKA qui tentent de maintenir une esthétique traditionnelle et le kumite WKF qui est a laissé 
   de côte l'esthétique au profit de l'efficacité sportive: resultats les athlètes WKF sont sur leurs
   demi-pointes et sautillants.
   Explications possibles de l'appui sur les talons :
@@ -102,12 +101,12 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
     - Dans les années 60-70, seuls des pratiquants japonais pouvaient avoir les dizaines d'années d'entraînement
       nécessaires pour prétendre au statut de maître ou d'expert. 50 ans plus tard, il y a des pratiquants dans tous les
       pays où le karaté s'est implanté qui peuvent prétendre au même nombre d'années et niveau d'expertise.
-- La maitrise de l'exercice pour l'exercice (l'art pour l'art) plutôt que comme un moyen d'atteindre l'efficacité en
+- La maîtrise de l'exercice pour l'exercice (l'art pour l'art) plutôt que comme un moyen d'atteindre l'efficacité en
   combat sous pression. Si votre exercice ne vous prépare pas correctement à faire face à un combattant de plein contact
   ou à une agression de rue, va-t-il vraiment dans le sens de l'efficacité ? Il faut aussi oser sortir des exercices
   sécurisants, et se mettre en condition de combat de plein contact, selon le jugement du professeur et de ses limites
   personnelles.
-- Les blocages irrealistes sur frappe directe. Souvent pratiqués sur oizuki parce que oizuki est une technique en raison
+- Les blocages irréalistes sur frappe directe. Souvent pratiqués sur oizuki parce que oizuki est une technique relativement lente en raison
   du pas en avant, ce qui permet d'avoir le temps de mettre en place un blocage difficile.
   Il n'est pas question de dire que ces blocages ne sont jamais utiles, mais plutôt qu'ils ne le sont pas autant que
   leur degré de pratique le laisse penser, ou bien que les situations très particulières où ils pourraient être utiles
@@ -115,9 +114,9 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
   Un test simple: ces blocages sont-ils fréquemment utilisés en combat libre et dans les disciplines de plein contact?
     - age uke: risque ramener un frappe chudan ou gedan vers la tete. Le soto uke, teisho uke, osae uke sont bien moins
       risqués.
-    - les blocages qui necessite le retrait de la garde l'intérieur : uchi uke, shuto uke
+    - les blocages qui nécessitent le retrait de la garde vers l'intérieur : uchi uke, shuto uke
     - Ces techniques peuvent toutefois être utiles:
-        - en blocage dans des contextes tres specifiques d'attaque venant du côte par exrmple pour le uchi uke.
+        - en blocage dans des contextes très spécifiques d'attaque venant du côte par exemple pour le uchi uke.
         - comme frappe
         - comme defense contre saisie, ex: uchi uke pour décrocher une saisie a la gorge ou au poignet.
 
@@ -132,7 +131,7 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
     1. Jigoro Kano, le fondateur du judo, a aidé Gichin Funakoshi à s'installer à Tokyo. Funakoshi aurait alors
        décidé de ne pas inclure les techniques de projections et de lutte dans le Shotokan pour éviter la concurrence
        avec le judo, qui était déjà bien établi et respecté.
-    2. Integration au budo japonais et inspiration: dogi, grades, dojo, dojokun, philosophie bouddhiste.
+    2. Intégration au budo japonais et inspiration: dogi, grades, dojo, dojokun, philosophie bouddhiste.
     3. Influence du kendo (sabre) sur le concept d'attaque décisive (ippon shobu) et le kumite à distance
        (maai) avec attaques principalement en ligne droite.
     4. Le context de deuxieme guerre mondiale, d'occupation et de pacification forcée du Japon, dans lequel le
@@ -141,7 +140,7 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
        force mentale et physique, ainsi que l'harmonie sociale. Dans ce contexte, les techniques de combat plus
        concrètes,
        ou violentes ont été minimisées pour favoriser une image plus positive d'un karaté au service de la formation de
-       bons citoyens modernes.
+       bons citoyens modernes et pacifiques.
     5. Ces biais ne sont pas negatifs dans l'absolu. Ils ont permis la survie du karaté jusqu'à nos jours, de la même
        manière que les biais cognitifs qui perturbent nos tentatives de logique ont probablement permis à nos lointains
        ancêtres de survivre, sans quoi ces biais n'auraient pas été preservés par la sélection naturelle. Je souhaite
@@ -150,9 +149,9 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
        groupes qui ont permis la transmission du karaté jusqu'à nous. Il a été déformé sous la
        pression de l'environnement dans lequel il a évolué, mais il a survécu jusqu'à nous, sans quoi nous ne serions
        pas là pour en discuter. Combien de traditions ont simplement disparu de la modernité sans qu'on ne connaisse
-       leur existence parce qu'elles n'ont pas su s'adapter au changement d'epoque? Le Shotokan d'aujourd'hui, sous la
+       leur existence parce qu'elles n'ont pas su s'adapter au changement d'époque ? Le Shotokan d'aujourd'hui, sous la
        pression de nouveaux arts martiaux populaires comme le krav maga et le MMA, est peut-être à un tournant similaire
-       aujourd'hui et il doit utiliser cette pression intelligemment pour évoluer et survivre dans ce nouveau siecle.
+       aujourd'hui et il doit utiliser cette pression intelligemment pour évoluer et s'épanouir dans ce nouveau siècle.
 3. Les katas sont les poèmes épiques du karaté. Leur esthétique facilite la transmission, mais elle rend aussi leur sens
    confus. Interpréter un kata littéralement en exécutant les mouvements en reproduisant exactement la même gestuelle,
    c'est comme penser qu'un phénomène magique décrit dans un récit mythologique est vraie, plutôt qu'une métaphore ou un
@@ -176,11 +175,11 @@ Ils ne sont pas exclusifs, de nombreux ponts existent entre eux. Cependant, cert
 suffisamment pour qu'il soit necessaire de clairement annoncer sur quel aspect on travaille pour eviter les confusions.
 Par exemple, une frappe de bras avant en Shotokan traditionnel (mae tsuki) et une frappe de bras avant en boxe (jab)
 different sur des points techniques précis (on considère ici les techniques de bases, les techniques avancées ayant une
-infinite de variations):
+infinité de variations):
 
 - point arrière tiré à la hanche en Shotokan vs point arrière gardé en protection du visage en boxe
 - talons bien ancrés au sol en Shotokan vs rotation sur l'avant du pied avec genou pivotant vers l'interieur en boxe.
-- épaules basses, menton degage et dos droit en Shotokan vs epaules hautes, menton rentré et dos courbé en boxe.
+- épaules basses, menton degagie et dos droit en Shotokan vs epaules hautes, menton rentré et dos courbé en boxe.
 
 Ces differences sont incompatibles dans le sens où il n'est pas possible de respecter tous ces critères en même temps
 (à moins d'être un système quantique cohérent, ce qu'un humain n'est pas). Il est cependant tout à fait possible de
@@ -197,10 +196,10 @@ l'un ou dans l'autre de ces aspects.
 
 1. Devenir une meilleure personne, physiquement et mentalement.
     1. Mentalement:
-        1. Par le respect des regles du dojo.
+        1. Par le respect des règles du dojo.
         2. Par le respect des professeurs, partenaires, adversaires et juges, y compris dans les situations intenses
            comme le combat.
-        3. Par la creation de liens sociaux dans le dojo et la communaute.
+        3. Par la création de liens sociaux dans le dojo et la communauté.
         4. Par l'apprentissage de la discipline du corps sur le long terme.
         5. Par le depassement de soi dans la douleur, la fatigue, le stress et l'échec.
         6. Par l'effort de memorisation d'une tradition gestuelle.
@@ -250,7 +249,7 @@ l'un ou dans l'autre de ces aspects.
    C'est seulement aprés avoir remis à plat leur gestuelle, qu'on peut commencer à réintroduire du naturel et de
    l'instinctif, sans être limité par les preferences innées. Si la base du karaté traditionnel est similaire à la base
    de
-   la danse classique, le travail de grades superieurs devraient peut-être plutôt ressembler à du travail preparatoire à
+   la danse classique, le travail de grades supérieurs devraient peut-être plutôt ressembler à du travail preparatoire à
    de l'improvisation de jazz ou de la battle de break dance. Un travail toujours rigoureux sur les bases et le respect
    du rythme, mais avec une capacité à improviser pour s'adapter au comportement imprévisible de l'autre.
 
@@ -316,7 +315,7 @@ Reference a la Renaissance artistique quand les artistes ont cessé de simplemen
 à peindre d'après leurs propres observations de la nature ?
 
 La tradition contient des indications dans ce sens.
-Precepte n*17 de Funakoshi: "Le kamae, ou posture d’attente, est destiné aux débutants, avec l’expérience, on adopte le
+Precepte n⁰17 de Funakoshi: "Le kamae, ou posture d’attente, est destiné aux débutants, avec l’expérience, on adopte le
 shizentai (posture naturelle)."
 Pourquoi tant de stages d'experts suivis par des gradés semblent exclusivement travailler en kamae traditionnel bas et
 si peu en posture naturelle?
@@ -403,7 +402,7 @@ robuste qu'il ne dépend pas d'un context particulier.
 
 ### La promotion institutionnelle de l'interdisciplinarité
 
-1. La FFK est riche d'une grande diversité de disciplines, pourtant elles semblent très souvent etanches au
+1. La FFK est riche d'une grande diversité de disciplines, pourtant elles semblent très souvent etan6ches au
    croisement des techniques.
 2. Les organisations doivent promouvoir l'interdisciplinarité en encourageant les échanges entre les différents arts
    martiaux et en motivant les pratiquants à passer des grades dans diverses disciplines.
@@ -412,13 +411,13 @@ robuste qu'il ne dépend pas d'un context particulier.
    auprès de la ligue) de m'inscrire pour passer un 1e dan de krav maga. Je l'ai passé en club tout comme mes camarades
    d'examen, mais sans reconnaissance officielle de la federation.
    En revanche, mon 4e dan de Shotokan me donne le droit de me presenter au 5e dan de krav maga. N'est-ce pas absurde?
-   Laisseriez-vous un master en genie civile postuler à un doctorat de medecine simplement parce que les deux sont des
+   Laisseriez-vous un master en génie civile postuler à un doctorat de medecine simplement parce que les deux sont des
    disciplines scientifiques? L'empêcheriez-vous de s'inscrire en premiere annee de medecine s'il souhaite changer de
    voie puisqu'il a deja realisé une première année d'ingénierie?
-   Quelle est la raison de cette regle etonnante? J'ose esperer que ce n'est pour permette à des gradés en karate de se
+   Quelle est la raison de cette règle etonnante? J'ose esperer que ce n'est pour permette à des gradés en karaté de se
    presenter comme compétents pour ouvrir des classes de disciplines porteuses comme le krav maga et le MMA sans se
-   fatiguer à passer des examens pour prouver leur competence?
-   Que les choses soient claires, la grande majorité des 1er dan de karate traditionnelle n'ont pas les connaissances
+   fatiguer à passer des examens pour prouver leur compétence ?
+   Que les choses soient claires, la grande majorité des 1er dan de karate traditionnel n'ont pas les connaissances
    necessaires pour passer le 1er dan de krav maga, de karate contact ou autre discipline de la federation, sans un
    entrainement specifique.
    Cela peut pousser les pratiquants à s'inscrire dans des federations rivales pour obtenir une reconnaissance de grade.
@@ -444,7 +443,7 @@ robuste qu'il ne dépend pas d'un context particulier.
 - 6 mois de jujutsu bresilien avec Gilles Arsènes au Maccabi Paris
 - Nombreux stages avec des experts federaux en France, principalement: Jean-Louis Morel, Pierre Berthier, Serge Serfati, Jean-Pierre
   Lavoratto.
-- 15 ans de pratique de la competition kata et kumite à un niveau modeste (podiums en Coupe de France des Corporations
+- 15 ans de pratique de la compétition kata et kumite à un niveau modeste (podiums en Coupe de France des Corporations
   kata par equipes, podiums en championnats departementaux 92 kata/kumite et multiples selections pour les championnats
   de France).
 

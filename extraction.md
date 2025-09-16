@@ -442,7 +442,7 @@ robuste qu'il ne dépend pas d'un context particulier.
 - 2 ans de kudo au Daido Juku Shibuya à Tokyo avec Higaniwa senpai.
 - 1 an de karate Shotokan JKA au dojo Hoitsugan à Tokyo avec Takahashi sensei et Taniyama sensei.
 - 6 mois de jujutsu bresilien avec Gilles Arsènes au Maccabi Paris
-- Nombreux stages avec des experts federaux en France, principalement: Jean-Louis Morel, Serge Serfati, Jean-Pierre
+- Nombreux stages avec des experts federaux en France, principalement: Jean-Louis Morel, Pierre Berthier, Serge Serfati, Jean-Pierre
   Lavoratto.
 - 15 ans de pratique de la competition kata et kumite à un niveau modeste (podiums en Coupe de France des Corporations
   kata par equipes, podiums en championnats departementaux 92 kata/kumite et multiples selections pour les championnats

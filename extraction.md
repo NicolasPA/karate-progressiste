@@ -17,7 +17,8 @@
       * [Exercices](#exercices-2)
       * [Tests](#tests-1)
   * [Les solutions](#les-solutions)
-    * [Augementation de la diversité technique](#augementation-de-la-diversité-technique)
+    * [Etudier la tradition pré-Shotokan](#etudier-la-tradition-pré-shotokan)
+    * [Augmentation de la diversité technique](#augmentation-de-la-diversité-technique)
       * [Les frappes circulaires](#les-frappes-circulaires)
       * [La garde haute](#la-garde-haute)
       * [Les esquives de buste](#les-esquives-de-buste)
@@ -26,6 +27,8 @@
       * [La lutte debout](#la-lutte-debout)
       * [La lutte au sol](#la-lutte-au-sol)
       * [Les clefs et soumissions](#les-clefs-et-soumissions)
+    * [Travailler la puissance de frappe avec les équipements modernes](#travailler-la-puissance-de-frappe-avec-les-équipements-modernes)
+    * [Adapter les exercices traditionnels aux 2 autres aspects](#adapter-les-exercices-traditionnels-aux-2-autres-aspects)
     * [La promotion institutionnelle de l'interdisciplinarité](#la-promotion-institutionnelle-de-linterdisciplinarité)
   * [L'auteur mérite-t-il votre attention?](#lauteur-mérite-t-il-votre-attention)
     * [Experience](#experience)
@@ -49,6 +52,10 @@ et se comparent à d'autres pratiques. Puis-je faire face à un combattant de bo
 en travaillant le triptyque traditionnel JKA kihon-kata-kumité? Si vous êtes comblé par votre pratique actuelle du
 Shotokan traditionnel, c'est une excellente chose. Loin de moi l'envie de critiquer choix et goûts personnels, cet
 article ne s'adresse donc pas à vous.
+On peut juste exiger l'honnêteté intellectuelle de reconnaître les limites de sa pratique personnelle et ne pas se
+fantasmer expert de situation pour lesquelles on ne s'entraîne jamais. Ce qui peut être le cas de certains pratiquants
+traditionnels qui se font des illusions sur leur capacité à faire face à des pratiquants de plein contact ou d'agression
+réelle.
 
 Dans ma conception du karaté, un karateka devrait à la fois être:
 
@@ -73,8 +80,8 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
   Les katas et la tradition devraient etre une source d'inspiration et non une source de limitations. Si des techniques
   font preuve de leur efficacité dans le sport de contact de haut niveau ou chez les professionnels de la sécurité,
   elles devraient etre intégrées au karaté. Certaines de ces techniques sont plus ou moins identifiables dans les katas,
-  on peut souvent en deduire que "tout est deja dans le karaté", mais si elles ne pas suffisemment pratiquées pour être 
-  appliquees en combat sous pression, c'est comme si elles n'existaient pas.
+  on peut souvent en deduire que "tout est deja dans le karaté", mais si elles ne sont pas suffisamment pratiquées pour être 
+  appliqueées en combat sous pression, c'est comme si elles n'existaient pas.
   Ex:
     - low-kicks (gedan mawashi/yoko/mae/mikazuki geri)
     - frappes en crochet (hook, long hook) et montantes (upper cut)
@@ -97,7 +104,7 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
       vous n'allez pas monter sur vos pointes de pieds.
 - Les gardes basses et les hikite à la hanche. Biais favorisé par le combat sur une attaque decisive. En combat coutinu,
   une garde descendue à une distance de corps à corps sera rapidement sanctionnée par une frappe au visage.
-- La mythisation des sensei japonais et des anciens en general.
+- La mythisation/idéalisation des sensei japonais et des anciens en general.
     - Dans les années 60-70, seuls des pratiquants japonais pouvaient avoir les dizaines d'années d'entraînement
       nécessaires pour prétendre au statut de maître ou d'expert. 50 ans plus tard, il y a des pratiquants dans tous les
       pays où le karaté s'est implanté qui peuvent prétendre au même nombre d'années et niveau d'expertise.
@@ -106,7 +113,23 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
   ou à une agression de rue, va-t-il vraiment dans le sens de l'efficacité ? Il faut aussi oser sortir des exercices
   sécurisants, et se mettre en condition de combat de plein contact, selon le jugement du professeur et de ses limites
   personnelles.
-- Les blocages irréalistes sur frappe directe. Souvent pratiqués sur oizuki parce que oizuki est une technique relativement lente en raison
+- À force ne de se concentrer que sur des exercices, on devient un expert de ces exercices. On se met ensuite a créer
+  des exercices spécifiques pour entraîner a ce nouvelle objectif plutôt que pour le combat.
+  On ne peut devenir compétant que
+  sur ce qu'on pratique pendant des annees. Si vous vous consacrez assidûment, durant 20 ans, au kata, kihon et ippon
+  kumite, vous avez de bonnes chances de devenir bon en kata, kihon et ippon kumite. Mais, il est peu probable que vous
+  soyez devenu bon en sport de combat de plein contact ou en auto-defense.
+- La ritualisation des combats avec des règles et des comportements bien précis.
+  La pratique avec combat sous pression et contact est nécessaire pour devenir un meilleur combattant.
+  Trop de pratiquants se bercent d'illusion sur leur capacité en combat réel alos qu'ils pratiquent exclusivement avec
+  des frappes contrôlées pour ne pas faire mal/
+  Cependant chaque personne a sa limite concernant l'intensité du contact. Chacun doit juger du bénéfice risque
+  d'augmenter l'intensité du combat pour devenir un meilleur combattant versus les risques pour la santé.
+  La situation n'est pas la peine selon qu'on soit un compétiteur de MMA, un professionnel de la sécurité, un artisan,
+  un employé de bureau, un parent avec enfants à charge etc.
+  Cependant il est tout à fait possible de travailler bien plus de situations et de techniques tout en restant dans le
+  niveau de risque qui est généralement accepté dans les dojo traditionnels ou les compétitions WKF.
+- Les blocages irréalistes sur frappe directe. Souvent pratiqués sur oizuki parce que oizuki est une technique relativement lente  en raison
   du pas en avant, ce qui permet d'avoir le temps de mettre en place un blocage difficile.
   Il n'est pas question de dire que ces blocages ne sont jamais utiles, mais plutôt qu'ils ne le sont pas autant que
   leur degré de pratique le laisse penser, ou bien que les situations très particulières où ils pourraient être utiles
@@ -155,8 +178,8 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
 3. Les katas sont les poèmes épiques du karaté. Leur esthétique facilite la transmission, mais elle rend aussi leur sens
    confus. Interpréter un kata littéralement en exécutant les mouvements en reproduisant exactement la même gestuelle,
    c'est comme penser qu'un phénomène magique décrit dans un récit mythologique est vraie, plutôt qu'une métaphore ou un
-   simple artifice narratif pour rendre le récit plus captivant. Il faut donc prendre une distance critique avec la 
-   gestuelle, considérer les deformations qu'ils ont subi, la perte de connaissance, l'imperfection des createurs et 
+   simple artifice narratif pour rendre le récit plus captivant. Il faut donc prendre une distance critique avec la
+   gestuelle, considérer les deformations qu'ils ont subi, la perte de connaissance, l'imperfection des createurs et
    des transmetteurs.
 
 ## Trois aspects
@@ -165,7 +188,8 @@ De par mon experience en karate Shotokan traditionnel, compétitions kata et kum
 et karate mixte au kudo, je constate des incompatibilités entre ce que chaque discipline considère comme l'objectif
 de l'art martial, l'efficacité au combat, les exercices pour y parvenir et les critères de réussite.
 
-Un angle que j'ai trouvé pour concilier ces differences est de distinguer trois aspects dans le karaté moderne:
+Un angle que j'ai trouvé pour concilier ces differences est de distinguer trois aspects ou facettes dans le karaté
+moderne:
 
 1. tradition
 2. autodéfense
@@ -179,7 +203,7 @@ infinité de variations):
 
 - point arrière tiré à la hanche en Shotokan vs point arrière gardé en protection du visage en boxe
 - talons bien ancrés au sol en Shotokan vs rotation sur l'avant du pied avec genou pivotant vers l'interieur en boxe.
-- épaules basses, menton degagie et dos droit en Shotokan vs epaules hautes, menton rentré et dos courbé en boxe.
+- épaules basses, menton degagé et dos droit en Shotokan vs epaules hautes, menton rentré et dos courbé en boxe.
 
 Ces differences sont incompatibles dans le sens où il n'est pas possible de respecter tous ces critères en même temps
 (à moins d'être un système quantique cohérent, ce qu'un humain n'est pas). Il est cependant tout à fait possible de
@@ -206,10 +230,19 @@ l'un ou dans l'autre de ces aspects.
         7. Par l'effort d'adaptation à des situations nouvelles, que ce soit sur un kihon complexe decouvert pour la
            premiere fois, un nouveau kata ou un combat libre.
         8. Par l'effort d'interpretation des katas et des kihons.
+        9. Par la lecture des livres de karate (Ex: les 20 préceptes de Funakoshi)
     2. Physiquement:
         1. Par le developpement de la force, de la souplesse, de l'endurance, de la coordination, de l'équilibre et de
            la
            proprioception.
+        2. Certains préceptes du karaté se materialisent dans la manière de pratiquer les exercices:
+            1. Le principe qu'il n'y a pas de première attaque dans le Shotokan se retrouve dans le fait que le rôle
+               principal dans les deux-par-deux est donné à celui qui recoit la première attaque (uke), il doit se
+               defendre contre l'attaque et contre-attaquer de manière à mettre fin à l'aggression.
+               De même, Les bunkai sont majoritairement interprétés du point de vue de la defense.
+    3. Éducation des enfants: Funakoshi, et l'un de ses professeur Itosu Ankoh étaient maître d'école, ils ont adapté le
+       karaté pour en faire un outil d'éducation pour les enfants. Itosu auraient créer les Heian/Pinan pour les
+       enfants.
 2. Preserver sa santé pour pratiquer le karate tout au long de sa vie.
     1. Attaques réalisées avec controle pour éviter les blessures
     2. Postures saines:
@@ -233,7 +266,15 @@ l'un ou dans l'autre de ces aspects.
         - enchainements de techniques (kata, kihon, kumite traditionnels),
         - langage corporel (impassibilité, determination)
         - rythmes d'exécution
-        - tenue vestimentaire: karategi et obi.
+        - tenue vestimentaire: oki, karategi et le bruit du karategi quand les techniques sont executées avec kime.
+    3. La tradition esthetique est un sujet difficile à critiquer rationnellement, car il y a une part importante de
+       choix subjectif. On ne va pas critique un danseur de jazz parce qu'il fait des pas qui ne font pas partie de la
+       tradition du ballet. C'est par pareil pour l'esthétique traditionnelle en karaté, elle a été établie pas des
+       maîtres successifs pour parti sans raison rationnel, simplement par goût esthétique, parce qu'ils se sont
+       detachés de la recherche d'efficacité en combat qui necessite la pratique du combat sous pression pour vivre.
+       Il s'agit alors de pratiquer l'art pour l'art, c'est tout autant respectable que de devenir un expert d'un style
+       de danse, et certains peuvent s'en satisfaire. On peut tout de même exiger que ces pratiquants reconnaissent que
+       cela est très éloigné des besoins de l'autodéfense.
 
 #### Exercices
 
@@ -284,6 +325,9 @@ Comment juge-t-on de la qualite du travail?
         2. Frappes yeux, oreilles, gorges
         3. Points de pressions yeux, anus
         4. Clefs sur les doigts
+3. Travail de bunkai axés autodefense en respectant les objectifs et les tests.
+   Cf bunkai de Bernard Bilicki et Iain Abernethy https://www.youtube.com/watch?v=Vw-wnObCc3U
+   https://www.karatebyjesse.com/iain-abernethy-karate-kata-bunkai-pt-1/
 
 #### Tests
 
@@ -296,6 +340,13 @@ Comment juge-t-on de la qualite du travail?
 
 1. Gagner ses combats.
 2. Eviter les blessures.
+3. Gagner sa vie.
+   Dans certains sports de combats, on peut très bien gagné sa vie en devenant champion.
+   Cela modifie le rapport bénéfice/risque = gain financier / blessures, par rapport à un pratiquant amateur qui n'a pas
+   besoin de prendre le risque de blessure pour assurer son niveau de vie.
+4. Attention: La compétition de plein contact ne représente pas non plus la réalité d'un combat de survie: techniques
+   interdites utiles en autodéfense. Mais, il s'en rapproche bien plus qu'un kumite conventionnel avec des partenaires
+   d'entraînement grâce au niveau de pression supérieur qu'elle autorise.
 
 #### Exercices
 
@@ -334,7 +385,23 @@ Exemple: defense contre une saisie à la gorge sur le debut de heian godan. Enco
 comme une experience scientifique confirmée par deux chercheurs totalement independants, la resultat est d'autant plus
 robuste qu'il ne dépend pas d'un context particulier.
 
-### Augementation de la diversité technique
+### Etudier la tradition pré-Shotokan
+
+Le Shotokan dit "traditionnel" repose souvent sur une cristallisation stylistique autour de Funakoshi et files, vers les
+années 40.
+Alors qu'en est-il du karaté précédant cette époque? Ne serait-il pas encore plus traditionnel?
+Il semble que ce karaté soit moins basé sur les postures longues, attaques longues et autres kumites rituatlisés.
+Il est peut-être plus proche de ce qu'on appellerait aujourd'hui des applications d'autodéfense.
+
+Chercher dans la tradition pré-Shotokan est peut-être donc un axe d'étude pour l'aspect autodéfense.
+
+cf https://www.karatebyjesse.com/iain-abernethy-karate-kata-bunkai-pt-1/
+
+Mais difficile à trouver de nos jours. Peut-être à Okinawa, mais le karaté d'Okinawa a lui aussi evolué par rapport au
+debut du 20e.
+cf livres sur Okinawa de JC Juster
+
+### Augmentation de la diversité technique
 
 #### Les frappes circulaires
 
@@ -400,9 +467,41 @@ robuste qu'il ne dépend pas d'un context particulier.
 
 #### Les clefs et soumissions
 
+### Travailler la puissance de frappe avec les équipements modernes
+
+- Le Shotokan traditionnel utilisait le makiwara pour travailler la puissance de frappe et le renforcement articulaire.
+  Cf chaptire sur comment construire son makiwara dans Karate Do Kyohan de Funakosh.
+- Aujourd'hui les rares makiwara presents dans des dojos servent de decoration, sont rarement utilisés par quelques
+  anciens, et de mon experience, jamais utilisé pendant les cours.
+  Quand est-ce que le pratiquant traditionnel peut alors travailler sa puissance?
+  Penser que le travail de kime dans le vide et lors des kumite avec contrôle est illusoire. Il y a une impression
+  exterieur de puissance mais pas de demonstration de l'impact réel.
+  Pourquoi les examens de dans ne contiennent aucun test de puissance de frappe?
+- Solution simple: utiliser la version moderne du makiwara: pattes d'ours, paos et autres boucliers.
+  Ils ont été très dévelopé par les sports de contact, il faut s'en inspirer.
+  Ils ont l'avantage de pouvoir d'être portés par un partenaire mobile qui peut varier les niveaux, attaques, feintes,
+  esquives etc.
+  On peut presque tout travailler avec l'avantage de pouvoir frapper pleine puissance.
+  Cela semble être l'outil idéal pour ceux qui veulent travailler leur "attaques décisives".
+  Ils permettent aussi de travailler le renforcement des articulations, les douleurs de contact et la capacité à
+  encaisser pour celui qui tient les cibles.
+
+### Adapter les exercices traditionnels aux 2 autres aspects
+
+1. Les kihon peuvent être transformés pour utiliser des techniques adaptées aux autres aspects.
+   Ex: ido geiko et kihon geiko du kudo
+2. Les katas peuvent être transformés pour utiliser des techniques adaptées aux autres aspects.
+   Exemple: remplacer le zenkutsudachi oizuki par motodachi jab/straight, garde haute, blocage courts ou esquives comme
+   en plein contact. Aussi mettre en valeur saisies et projections.
+   Cf katas dans le Kenseikan Shin Karate, exclusivement avec des techniques de full contact.
+   Il faut "dé-esthetiser" les katas pour mettre en valeur des applications concrètes sans ambiguité.
+3. Les bunkai peuvent être orientés sur les autres aspects, en gardant les tests de qualité respectifs.
+   cf Bunkai par Areski Ouzrout pour certains clefs de lecture pertinentes.
+3. De même pour les kumite
+
 ### La promotion institutionnelle de l'interdisciplinarité
 
-1. La FFK est riche d'une grande diversité de disciplines, pourtant elles semblent très souvent etan6ches au
+1. La FFK est riche d'une grande diversité de disciplines, pourtant elles semblent très souvent étanches au
    croisement des techniques.
 2. Les organisations doivent promouvoir l'interdisciplinarité en encourageant les échanges entre les différents arts
    martiaux et en motivant les pratiquants à passer des grades dans diverses disciplines.
@@ -445,7 +544,7 @@ robuste qu'il ne dépend pas d'un context particulier.
   Lavoratto.
 - 15 ans de pratique de la compétition kata et kumite à un niveau modeste (podiums en Coupe de France des Corporations
   kata par equipes, podiums en championnats departementaux 92 kata/kumite et multiples selections pour les championnats
-  de France).
+  de France kata/kumite).
 
 ### Avis libre d'un karateka non-professionnel
 

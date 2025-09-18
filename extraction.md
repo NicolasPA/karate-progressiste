@@ -1,39 +1,37 @@
-<!-- TOC -->
-  * [Avant-propos](#avant-propos)
-  * [Les biais de la pratique traditionnelle à corriger](#les-biais-de-la-pratique-traditionnelle-à-corriger)
+* [Avant-propos](#avant-propos)
+* [Les biais de la pratique traditionnelle à corriger](#les-biais-de-la-pratique-traditionnelle-à-corriger)
     * [Les biais](#les-biais)
     * [Les possibles origines historiques des biais](#les-possibles-origines-historiques-des-biais)
-  * [Trois aspects](#trois-aspects)
+* [Trois aspects](#trois-aspects)
     * [La tradition](#la-tradition)
-      * [Objectifs](#objectifs)
-      * [Exercices](#exercices)
-      * [Tests de qualité](#tests-de-qualité)
+        * [Objectifs](#objectifs)
+        * [Exercices](#exercices)
+        * [Tests de qualité](#tests-de-qualité)
     * [L'autodéfense](#lautodéfense)
-      * [Objectifs](#objectifs-1)
-      * [Exercices](#exercices-1)
-      * [Tests](#tests)
+        * [Objectifs](#objectifs-1)
+        * [Exercices](#exercices-1)
+        * [Tests](#tests)
     * [La compétition](#la-compétition)
-      * [Objectifs](#objectifs-2)
-      * [Exercices](#exercices-2)
-      * [Tests](#tests-1)
-  * [Les solutions](#les-solutions)
+        * [Objectifs](#objectifs-2)
+        * [Exercices](#exercices-2)
+        * [Tests](#tests-1)
+* [Les solutions](#les-solutions)
     * [Etudier la tradition pré-Shotokan](#etudier-la-tradition-pré-shotokan)
     * [Augmentation de la diversité technique](#augmentation-de-la-diversité-technique)
-      * [Les frappes circulaires](#les-frappes-circulaires)
-      * [La garde haute](#la-garde-haute)
-      * [Les esquives de buste](#les-esquives-de-buste)
-      * [Les low-kicks](#les-low-kicks)
-      * [Les projections](#les-projections)
-      * [La lutte debout](#la-lutte-debout)
-      * [La lutte au sol](#la-lutte-au-sol)
-      * [Les clefs et soumissions](#les-clefs-et-soumissions)
+        * [Les frappes circulaires](#les-frappes-circulaires)
+        * [La garde haute](#la-garde-haute)
+        * [Les esquives de buste](#les-esquives-de-buste)
+        * [Les low-kicks](#les-low-kicks)
+        * [Les projections](#les-projections)
+        * [La lutte debout](#la-lutte-debout)
+        * [La lutte au sol](#la-lutte-au-sol)
+        * [Les clefs et soumissions](#les-clefs-et-soumissions)
     * [Travailler la puissance de frappe avec les équipements modernes](#travailler-la-puissance-de-frappe-avec-les-équipements-modernes)
     * [Adapter les exercices traditionnels aux 2 autres aspects](#adapter-les-exercices-traditionnels-aux-2-autres-aspects)
     * [La promotion institutionnelle de l'interdisciplinarité](#la-promotion-institutionnelle-de-linterdisciplinarité)
-  * [L'auteur mérite-t-il votre attention?](#lauteur-mérite-t-il-votre-attention)
+* [L'auteur mérite-t-il votre attention?](#lauteur-mérite-t-il-votre-attention)
     * [Experience](#experience)
     * [Avis libre d'un karateka non-professionnel](#avis-libre-dun-karateka-non-professionnel)
-<!-- TOC -->
 
 ## Avant-propos
 
@@ -80,19 +78,19 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
   Les katas et la tradition devraient etre une source d'inspiration et non une source de limitations. Si des techniques
   font preuve de leur efficacité dans le sport de contact de haut niveau ou chez les professionnels de la sécurité,
   elles devraient etre intégrées au karaté. Certaines de ces techniques sont plus ou moins identifiables dans les katas,
-  on peut souvent en deduire que "tout est deja dans le karaté", mais si elles ne sont pas suffisamment pratiquées pour être 
-  appliqueées en combat sous pression, c'est comme si elles n'existaient pas.
+  on peut souvent en deduire que "tout est deja dans le karaté", mais si elles ne sont pas suffisamment pratiquées pour
+  être appliquées en combat sous pression, c'est comme si elles n'existaient pas.
   Ex:
     - low-kicks (gedan mawashi/yoko/mae/mikazuki geri)
     - frappes en crochet (hook, long hook) et montantes (upper cut)
     - esquives de buste
-    - protection passives par la garde haute, les epaules montées, les coudes serrés 
+    - protection passives par la garde haute, les epaules montées, les coudes serrés
     - techniques de lutte, clinch
     - techniques de projections
     - techniques de soumission etc.
 - L'appui sur les talons qui est contre-intuitif pour du combat pied-poing. L'appui sur les demi-pointes est bien plus
-  adapté aux déplacements rapides et aux pivots pour esquiver ou frapper. On voit bien l'évolution entre les competitions
-  kumite JKA qui tentent de maintenir une esthétique traditionnelle et le kumite WKF qui est a laissé 
+  adapté aux déplacements rapides et aux pivots pour esquiver ou frapper. On voit bien l'évolution entre les
+  competitions kumite JKA qui tentent de maintenir une esthétique traditionnelle et le kumite WKF qui est a laissé
   de côte l'esthétique au profit de l'efficacité sportive: resultats les athlètes WKF sont sur leurs
   demi-pointes et sautillants.
   Explications possibles de l'appui sur les talons :
@@ -129,8 +127,8 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
   un employé de bureau, un parent avec enfants à charge etc.
   Cependant il est tout à fait possible de travailler bien plus de situations et de techniques tout en restant dans le
   niveau de risque qui est généralement accepté dans les dojo traditionnels ou les compétitions WKF.
-- Les blocages irréalistes sur frappe directe. Souvent pratiqués sur oizuki parce que oizuki est une technique relativement lente  en raison
-  du pas en avant, ce qui permet d'avoir le temps de mettre en place un blocage difficile.
+- Les blocages irréalistes sur frappe directe. Souvent pratiqués sur oizuki parce que oizuki est une technique
+  relativement lente en raison du pas en avant, ce qui permet d'avoir le temps de mettre en place un blocage difficile.
   Il n'est pas question de dire que ces blocages ne sont jamais utiles, mais plutôt qu'ils ne le sont pas autant que
   leur degré de pratique le laisse penser, ou bien que les situations très particulières où ils pourraient être utiles
   ne sont pas bien soulignées.
@@ -540,8 +538,8 @@ cf livres sur Okinawa de JC Juster
 - 2 ans de kudo au Daido Juku Shibuya à Tokyo avec Higaniwa senpai.
 - 1 an de karate Shotokan JKA au dojo Hoitsugan à Tokyo avec Takahashi sensei et Taniyama sensei.
 - 6 mois de jujutsu bresilien avec Gilles Arsènes au Maccabi Paris
-- Nombreux stages avec des experts federaux en France, principalement: Jean-Louis Morel, Pierre Berthier, Serge Serfati, Jean-Pierre
-  Lavoratto.
+- Nombreux stages avec des experts federaux en France, principalement: Jean-Louis Morel, Pierre Berthier, Serge Serfati,
+  Jean-Pierre Lavoratto.
 - 15 ans de pratique de la compétition kata et kumite à un niveau modeste (podiums en Coupe de France des Corporations
   kata par equipes, podiums en championnats departementaux 92 kata/kumite et multiples selections pour les championnats
   de France kata/kumite).

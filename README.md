@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 Un regard critique sur karaté Shotokan d'aujourd'hui au service d'une vision progressiste du karaté de demain.
 
 * [Avant-propos](#avant-propos)
@@ -36,16 +38,17 @@ Un regard critique sur karaté Shotokan d'aujourd'hui au service d'une vision pr
 * [L'auteur mérite-t-il votre attention?](#lauteur-mérite-t-il-votre-attention)
     * [Experience](#experience)
     * [Avis libre d'un karateka non-professionnel](#avis-libre-dun-karateka-non-professionnel)
+* [Licence](#licence)
 
 ## Avant-propos
 
 Ceci est un manifeste pour un karate moderne et complet, qui puise aussi bien dans sa tradition, que dans son
 enrichissement par son autocritique, la recherche et le contact avec d'autres disciplines.
 
-Ceci est une ebauche qui reflète mon niveau personnel de maturite et reflexion actuel. Il n'a pas vocation à être
+Ceci est une ébauche qui reflète mon niveau personnel de maturité et reflexion actuel. Il n'a pas vocation à être
 largement diffusé dans cet état bien que je fasse le choix d'un processus d'écriture transparent issu de mon experience
 dans la programmation informatique libre (free and open source software). Des extraits peuvent être librement réutilisés
-à la seule condition de me citer comme source (licence Creative Commons Attribution 4.0 International).
+à la seule condition de me citer comme source (licence [Creative Commons Attribution 4.0 International License][cc-by]).
 Elle sera améliorée sur les prochaines années, au fil de mes prochaines experiences d'entrainement au Japon, de la
 preparation de mon 5e dan, et de la preparation d'un diplôme d'enseignant plus avancé.
 
@@ -650,3 +653,15 @@ Sortir du carcan des kamae traditionnel avec postures longues et hikite à la ha
 Un karateka amateur a l'inconvénient de ne pas pouvoir me consacrer à plein temps au karaté. Mais, il a l'avantage de ne
 pas dépendre de son activité dans le karaté pour gagner ma vie. Cela offre une liberté de propos plus grande que quand
 on doit maintenir des relations professionnelles et commerciales pour garantir son revenu.
+
+## Licence
+
+Ce travail est sous licence [Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: https://creativecommons.org/licenses/by/4.0/deed.fr
+
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg

@@ -74,17 +74,7 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
 
 #### Les limites mentales
 
-1. L'accent excessif mis sur la technique décisive empêche le développement de réflexes de défense contre
-   contre-attaques et contre-contre-attaque. À la place, il faut pratiquer le retour en garde défensive et à distance de
-   sécurité. Y compris avec des attaques servant à revenir en sécurité tout en dissuadant des attaques, comme des
-   frappes de bras avant rapides pendant le recul ou le pivot. Si on limite le travail à des exercices traditionnels sur
-   une attaque decisive, comme le kihon ippon kumite, ou même les compétitions WKF dans lesquelles le combat est stoppé
-   à chaque technique gagnante, on ne peut pas travailler ces aspects essentiels du combat. En frappe à mains nues, il
-   n'y a pas de techniques qui garantissent d'achever le combat à coup sûr comme ce serait le cas avec une lame. Le
-   nombre important de competitions de plein contact filmé permettent de mesurer qu'il est excessivement rare qu'un
-   match s'achève à la première touche. Il faut donc être prêt, non seulement à enchainer plus qu'une technique "
-   décisive", mais également à subir une contre-attaque même quand on pense avoir realisé une technique décisive.
-2. La mythisation/idéalisation des sensei japonais et des anciens en general qui bloque la remise en cause.
+1. La mythisation/idéalisation des sensei japonais et des anciens en general qui bloque la remise en cause.
     - Il y a une hypothèse recurrente et séduisante proposant que les maitres d'autrefois aient bénéficié de savoirs
       plus ou moins secrets effectivement acquis par des générations de maitres ayant fait l'expérience prolongée du
       combat de survie en tant que professionnels de la guerre ou de la securité (ex: Sōkon Matsumura fondateur du
@@ -121,26 +111,36 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
       les résultats en compétitions. L'autodéfense de son côté doit absolument éliminer tout argument d'autorité,
       parce que la sécurité de personnes est en jeu, et reposer sur l'expérience, aussi objective que possible, de
       professionnels de la sécurité.
-3. La maîtrise de l'exercice pour l'exercice (l'art pour l'art) plutôt que comme un moyen d'atteindre l'efficacité en
+2. La maîtrise de l'exercice pour l'exercice (l'art pour l'art) plutôt que comme un moyen d'atteindre l'efficacité en
    combat sous pression. Si votre exercice ne vous prépare pas correctement à faire face à un combattant de plein
    contact ou à une agression de rue, va-t-il vraiment dans le sens de l'efficacité ? Il faut aussi oser sortir des
    exercices sécurisants, et se mettre en condition de combat de plein contact, selon le jugement du professeur et de
    ses limites personnelles.
-4. À force ne de se concentrer que sur des exercices, on devient un expert de ces exercices. On se met ensuite à créer
+3. À force ne de se concentrer que sur des exercices, on devient un expert de ces exercices. On se met ensuite à créer
    des exercices spécifiques pour entraîner à ce nouvel objectif plutôt que pour le combat.
    On ne peut devenir compétant que sur ce qu'on pratique pendant des annees. Si vous vous consacrez assidûment, durant
    20 ans, au kata, kihon et ippon kumite, vous avez de bonnes chances de devenir bon en kata, kihon et ippon kumite.
    Mais, il est peu probable que vous soyez devenu bon en sport de combat de plein contact ou en auto-defense.
-5. La ritualisation des combats avec des règles et des comportements bien précis.
+4. La ritualisation des combats avec des règles et des comportements bien précis.
    La pratique avec combat sous pression et contact est nécessaire pour devenir un meilleur combattant.
    Trop de pratiquants se bercent d'illusion sur leur capacité en combat réel alos qu'ils pratiquent exclusivement avec
-   des frappes contrôlées pour ne pas faire mal/
+   des frappes contrôlées pour ne pas faire mal.
    Cependant chaque personne a sa limite concernant l'intensité du contact. Chacun doit juger du bénéfice risque
    d'augmenter l'intensité du combat pour devenir un meilleur combattant versus les risques pour la santé.
    La situation n'est pas la peine selon qu'on est un compétiteur de MMA, un professionnel de la sécurité, un artisan,
    un employé de bureau, un parent avec enfants à charge, etc.
    Toutefois, il est tout à fait possible de travailler bien plus de situations et de techniques tout en restant dans le
    niveau de risque qui est généralement accepté dans les dojos traditionnels ou les compétitions WKF.
+5. L'accent excessif mis sur la technique décisive empêche le développement de réflexes de défense contre
+   contre-attaques et contre-contre-attaque. À la place, il faut pratiquer le retour en garde défensive et à distance de
+   sécurité. Y compris avec des attaques servant à revenir en sécurité tout en dissuadant des attaques, comme des
+   frappes de bras avant rapides pendant le recul ou le pivot. Si on limite le travail à des exercices traditionnels sur
+   une attaque decisive, comme le kihon ippon kumite, ou même les compétitions WKF dans lesquelles le combat est stoppé
+   à chaque technique gagnante, on ne peut pas travailler ces aspects essentiels du combat. En frappe à mains nues, il
+   n'y a pas de techniques qui garantissent d'achever le combat à coup sûr comme ce serait le cas avec une lame. Le
+   nombre important de competitions de plein contact filmé permettent de mesurer qu'il est excessivement rare qu'un
+   match s'achève à la première touche. Il faut donc être prêt, non seulement à enchainer plus qu'une technique "
+   décisive", mais également à subir une contre-attaque même quand on pense avoir realisé une technique décisive.
 6. La concentration sur la maitrise de formes complexes et esthétiques de karaté plutôt que sur la simplicité de
    l'efficacité au combat. Un risque est que les professeurs et les senpais ne s'enferment dans une tour d'ivoire
    construite uniquement sur la maîtrise de formes abstraites, complexes et longues (katas supérieurs, kihon à
@@ -201,7 +201,8 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
    Gichin Funakoshi, son fils Gigo Funakoshi, et leurs élèves directs. Ils ont fondé l'organisation Shotokai en 1930, la
    Japan Karate Association (JKA) en 1949, puis de nombreuses organisations dérivées (SKIF, JKS, KWF, etc.) dues à des
    querelles des anciens et des modernes (comme souvent dans les arts).
-2. Le Shotokan est issue de l'adaptation du karate d'Okinawa au contexte de la metropole japonaise de l'époque:
+   70 ans plus tard, on devrait pouvoir s'autoriser à remettre en cause quelques choix.
+2. Le Shotokan est issue de l'adaptation du karaté d'Okinawa au contexte de la metropole japonaise de l'époque:
     1. Jigoro Kano, le fondateur du judo, a aidé Gichin Funakoshi à s'installer à Tokyo. Funakoshi aurait alors
        décidé de ne pas inclure les techniques de projections et de lutte dans le Shotokan pour éviter la concurrence
        avec le judo, qui était déjà bien établi et respecté.

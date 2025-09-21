@@ -94,10 +94,10 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
            Il est peu probable que les maitres anciens ou leurs élèves avancés auraient fait le poids contre les
            combattants de MMA professionnels d'aujourd'hui, issues d'un processus de selection rigoureux et
            international.
-        4. Les professionnels de la guerre et de la securite existent toujours, étant donnee le progrès des techniques
+        4. Les professionnels de la guerre et de la securité existent toujours, étant donné le progrès des techniques
            de documentation et de formation modernes, il est probable que leurs techniques soient plus efficaces que
-           celles des siecles derniers. Il faut donc continuer à apprendre à leur contact, comme des systèmes
-           d'autodéfense plus recent comme le krav-maga le font.
+           celles des siècles derniers. Il faut donc continuer à apprendre à leur contact, comme des systèmes
+           d'autodéfense plus recent à l'image de ce que les bons instructeurs de krav-maga font.
     - Dans les années 60-70, seuls des pratiquants japonais pouvaient avoir les dizaines d'années d'entraînement
       nécessaires pour prétendre au statut de maître ou d'expert. 50 ans plus tard, il y a des pratiquants dans tous les
       pays où le karaté s'est implanté qui peuvent prétendre au même nombre d'années et niveau d'expertise.
@@ -122,17 +122,18 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
    des exercices spécifiques pour entraîner à ce nouvel objectif plutôt que pour le combat.
    On ne peut devenir compétant que sur ce qu'on pratique pendant des annees. Si vous vous consacrez assidûment, durant
    20 ans, au kata, kihon et ippon kumite, vous avez de bonnes chances de devenir bon en kata, kihon et ippon kumite.
-   Mais, il est peu probable que vous soyez devenu bon en sport de combat de plein contact ou en auto-defense.
+   Mais, il est peu probable que vous soyez devenu bon en sport de combat de plein contact ou en autodéfense.
 4. La ritualisation des combats avec des règles et des comportements bien précis.
    La pratique avec combat sous pression et contact est nécessaire pour devenir un meilleur combattant.
    Trop de pratiquants se bercent d'illusion sur leur capacité en combat réel alos qu'ils pratiquent exclusivement avec
    des frappes contrôlées pour ne pas faire mal.
-   Cependant chaque personne a sa limite concernant l'intensité du contact. Chacun doit juger du bénéfice risque
-   d'augmenter l'intensité du combat pour devenir un meilleur combattant versus les risques pour la santé.
+   On reconnait que chaque personne à sa limite concernant l'intensité du contact. Chacun doit juger du bénéfice risque
+   d'augmenter l'intensité du combat pour devenir un meilleur combattant par rapport aux risques pour sa santé.
    La situation n'est pas la peine selon qu'on est un compétiteur de MMA, un professionnel de la sécurité, un artisan,
    un employé de bureau, un parent avec enfants à charge, etc.
    Toutefois, il est tout à fait possible de travailler bien plus de situations et de techniques tout en restant dans le
-   niveau de risque qui est généralement accepté dans les dojos traditionnels ou les compétitions WKF.
+   niveau de risque qui est généralement accepté dans les dojos traditionnels ou les compétitions WKF. Cela entrainant 
+   une meilleure prise de conscience de ses compétences personnelles.
 5. L'accent excessif mis sur la technique décisive empêche le développement de réflexes de défense contre
    contre-attaques et contre-contre-attaque. À la place, il faut pratiquer le retour en garde défensive et à distance de
    sécurité. Y compris avec des attaques servant à revenir en sécurité tout en dissuadant des attaques, comme des
@@ -186,15 +187,17 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
    leur degré de pratique le laisse penser, ou bien que les situations très particulières où ils pourraient être utiles
    ne sont pas bien soulignées.
    Un test simple: ces blocages sont-ils fréquemment utilisés en combat libre et dans les disciplines de plein contact?
-    - age uke: risque ramener un frappe chudan ou gedan vers la tete. Le soto uke, teisho uke, osae uke sont bien moins
-      risqués.
+    - age uke: risque de ramener une frappe chudan ou gedan vers la tete. Le soto uke, teisho uke, osae uke sont bien 
+      moins risqués.
     - les blocages qui nécessitent le retrait de la garde vers l'intérieur : uchi uke, shuto uke
     - Ces techniques peuvent toutefois être utiles:
         - en blocage dans des contextes très spécifiques d'attaque venant du côté par exemple pour l'uchi uke.
         - comme frappe
         - comme defense contre saisie, ex: uchi uke pour décrocher une saisie a la gorge ou au poignet.
+        - comme technique de lutte: imaginer que l'adverse est déjà au corps à corps avec des saisies verouillées sur 
+          soi ouvrent des explications à des mouvements complexes à deux bras comme mawashi uke.
 5. La déconnexion avec la réalité de l'auto-defense dans les attaques les plus travaillées. Les aggressions sont
-   statiquement plus souvent, faites de frappes circulaires et de saisies qui se transforme en lutte. Ces techniques
+   statiquement plus souvent, faites de frappes circulaires et de saisies qui se transforment en lutte. Ces techniques
    sont peu ou pas travaillés en Shotokan traditionnel.
 
 ### Les possibles origines historiques de ces limites

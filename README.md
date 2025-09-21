@@ -5,6 +5,8 @@ Un regard critique sur karaté Shotokan d'aujourd'hui au service d'une vision pr
 * [Avant-propos](#avant-propos)
 * [Les limites critiquables de la pratique traditionnelle](#les-limites-critiquables-de-la-pratique-traditionnelle)
     * [Les limites](#les-limites)
+        * [Les limites mentales](#les-limites-mentales)
+        * [Les limites techniques](#les-limites-techniques)
     * [Les possibles origines historiques de ces limites](#les-possibles-origines-historiques-de-ces-limites)
 * [Trois aspects](#trois-aspects)
     * [La tradition](#la-tradition)

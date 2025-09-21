@@ -657,6 +657,9 @@ on doit maintenir des relations professionnelles et commerciales pour garantir s
 ## Licence
 
 Ce travail est sous licence [Creative Commons Attribution 4.0 International License][cc-by].
+Des extraits peuvent être librement réutilisés à la seule condition de me citer comme source.
+Merci de citer "Nicolas Parot-Alvarez" comme auteur et ce site https://nicolaspa.github.io/karate-progressiste/ comme
+source.
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 

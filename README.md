@@ -5,6 +5,8 @@ Un regard critique sur karaté Shotokan d'aujourd'hui au service d'une vision pr
 * [Avant-propos](#avant-propos)
 * [Les limites critiquables de la pratique traditionnelle](#les-limites-critiquables-de-la-pratique-traditionnelle)
     * [Les limites](#les-limites)
+        * [Les limites mentales](#les-limites-mentales)
+        * [Les limites techniques](#les-limites-techniques)
     * [Les possibles origines historiques de ces limites](#les-possibles-origines-historiques-de-ces-limites)
 * [Trois aspects](#trois-aspects)
     * [La tradition](#la-tradition)
@@ -37,12 +39,12 @@ Un regard critique sur karaté Shotokan d'aujourd'hui au service d'une vision pr
     * [La promotion institutionnelle de l'interdisciplinarité](#la-promotion-institutionnelle-de-linterdisciplinarité)
 * [L'auteur mérite-t-il votre attention?](#lauteur-mérite-t-il-votre-attention)
     * [Experience](#experience)
-    * [Avis libre d'un karateka non-professionnel](#avis-libre-dun-karateka-non-professionnel)
+    * [Avis libre d'un karatéka non-professionnel](#avis-libre-dun-karatéka-non-professionnel)
 * [Licence](#licence)
 
 ## Avant-propos
 
-Ceci est un manifeste pour un karate moderne et complet, qui puise aussi bien dans sa tradition, que dans son
+Ceci est un manifeste pour un karaté moderne et complet, qui puise aussi bien dans sa tradition, que dans son
 enrichissement par son autocritique, la recherche et le contact avec d'autres disciplines.
 
 Ceci est une ébauche qui reflète mon niveau personnel de maturité et reflexion actuel. Il n'a pas vocation à être
@@ -62,9 +64,9 @@ fantasmer expert de situation pour lesquelles on ne s'entraîne jamais. Ce qui p
 traditionnels qui se font des illusions sur leur capacité à faire face à des pratiquants de plein contact ou d'agression
 réelle.
 
-Dans ma conception du karaté, un karateka devrait à la fois être:
+Dans ma conception du karaté, un karatéka devrait à la fois être:
 
-- detenteur d'une tradition,
+- détenteur d'une tradition,
 - capable de faire fasse à un combattant de sport de contact avec une duree de pratique comparable
 - capable de faire fasse à une aggression de rue parmi les plus courantes statistiquement
 
@@ -74,17 +76,7 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
 
 #### Les limites mentales
 
-1. L'accent excessif mis sur la technique décisive empêche le développement de réflexes de défense contre
-   contre-attaques et contre-contre-attaque. À la place, il faut pratiquer le retour en garde défensive et à distance de
-   sécurité. Y compris avec des attaques servant à revenir en sécurité tout en dissuadant des attaques, comme des
-   frappes de bras avant rapides pendant le recul ou le pivot. Si on limite le travail à des exercices traditionnels sur
-   une attaque decisive, comme le kihon ippon kumite, ou même les compétitions WKF dans lesquelles le combat est stoppé
-   à chaque technique gagnante, on ne peut pas travailler ces aspects essentiels du combat. En frappe à mains nues, il
-   n'y a pas de techniques qui garantissent d'achever le combat à coup sûr comme ce serait le cas avec une lame. Le
-   nombre important de competitions de plein contact filmé permettent de mesurer qu'il est excessivement rare qu'un
-   match s'achève à la première touche. Il faut donc être prêt, non seulement à enchainer plus qu'une technique "
-   décisive", mais également à subir une contre-attaque même quand on pense avoir realisé une technique décisive.
-2. La mythisation/idéalisation des sensei japonais et des anciens en general qui bloque la remise en cause.
+1. La mythisation/idéalisation des sensei japonais et des anciens en general qui bloque la remise en cause.
     - Il y a une hypothèse recurrente et séduisante proposant que les maitres d'autrefois aient bénéficié de savoirs
       plus ou moins secrets effectivement acquis par des générations de maitres ayant fait l'expérience prolongée du
       combat de survie en tant que professionnels de la guerre ou de la securité (ex: Sōkon Matsumura fondateur du
@@ -121,26 +113,36 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
       les résultats en compétitions. L'autodéfense de son côté doit absolument éliminer tout argument d'autorité,
       parce que la sécurité de personnes est en jeu, et reposer sur l'expérience, aussi objective que possible, de
       professionnels de la sécurité.
-3. La maîtrise de l'exercice pour l'exercice (l'art pour l'art) plutôt que comme un moyen d'atteindre l'efficacité en
+2. La maîtrise de l'exercice pour l'exercice (l'art pour l'art) plutôt que comme un moyen d'atteindre l'efficacité en
    combat sous pression. Si votre exercice ne vous prépare pas correctement à faire face à un combattant de plein
    contact ou à une agression de rue, va-t-il vraiment dans le sens de l'efficacité ? Il faut aussi oser sortir des
    exercices sécurisants, et se mettre en condition de combat de plein contact, selon le jugement du professeur et de
    ses limites personnelles.
-4. À force ne de se concentrer que sur des exercices, on devient un expert de ces exercices. On se met ensuite à créer
+3. À force ne de se concentrer que sur des exercices, on devient un expert de ces exercices. On se met ensuite à créer
    des exercices spécifiques pour entraîner à ce nouvel objectif plutôt que pour le combat.
    On ne peut devenir compétant que sur ce qu'on pratique pendant des annees. Si vous vous consacrez assidûment, durant
    20 ans, au kata, kihon et ippon kumite, vous avez de bonnes chances de devenir bon en kata, kihon et ippon kumite.
    Mais, il est peu probable que vous soyez devenu bon en sport de combat de plein contact ou en auto-defense.
-5. La ritualisation des combats avec des règles et des comportements bien précis.
+4. La ritualisation des combats avec des règles et des comportements bien précis.
    La pratique avec combat sous pression et contact est nécessaire pour devenir un meilleur combattant.
    Trop de pratiquants se bercent d'illusion sur leur capacité en combat réel alos qu'ils pratiquent exclusivement avec
-   des frappes contrôlées pour ne pas faire mal/
+   des frappes contrôlées pour ne pas faire mal.
    Cependant chaque personne a sa limite concernant l'intensité du contact. Chacun doit juger du bénéfice risque
    d'augmenter l'intensité du combat pour devenir un meilleur combattant versus les risques pour la santé.
    La situation n'est pas la peine selon qu'on est un compétiteur de MMA, un professionnel de la sécurité, un artisan,
    un employé de bureau, un parent avec enfants à charge, etc.
    Toutefois, il est tout à fait possible de travailler bien plus de situations et de techniques tout en restant dans le
    niveau de risque qui est généralement accepté dans les dojos traditionnels ou les compétitions WKF.
+5. L'accent excessif mis sur la technique décisive empêche le développement de réflexes de défense contre
+   contre-attaques et contre-contre-attaque. À la place, il faut pratiquer le retour en garde défensive et à distance de
+   sécurité. Y compris avec des attaques servant à revenir en sécurité tout en dissuadant des attaques, comme des
+   frappes de bras avant rapides pendant le recul ou le pivot. Si on limite le travail à des exercices traditionnels sur
+   une attaque decisive, comme le kihon ippon kumite, ou même les compétitions WKF dans lesquelles le combat est stoppé
+   à chaque technique gagnante, on ne peut pas travailler ces aspects essentiels du combat. En frappe à mains nues, il
+   n'y a pas de techniques qui garantissent d'achever le combat à coup sûr comme ce serait le cas avec une lame. Le
+   nombre important de competitions de plein contact filmé permettent de mesurer qu'il est excessivement rare qu'un
+   match s'achève à la première touche. Il faut donc être prêt, non seulement à enchainer plus qu'une technique "
+   décisive", mais également à subir une contre-attaque même quand on pense avoir realisé une technique décisive.
 6. La concentration sur la maitrise de formes complexes et esthétiques de karaté plutôt que sur la simplicité de
    l'efficacité au combat. Un risque est que les professeurs et les senpais ne s'enferment dans une tour d'ivoire
    construite uniquement sur la maîtrise de formes abstraites, complexes et longues (katas supérieurs, kihon à
@@ -201,7 +203,8 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
    Gichin Funakoshi, son fils Gigo Funakoshi, et leurs élèves directs. Ils ont fondé l'organisation Shotokai en 1930, la
    Japan Karate Association (JKA) en 1949, puis de nombreuses organisations dérivées (SKIF, JKS, KWF, etc.) dues à des
    querelles des anciens et des modernes (comme souvent dans les arts).
-2. Le Shotokan est issue de l'adaptation du karate d'Okinawa au contexte de la metropole japonaise de l'époque:
+   70 ans plus tard, on devrait pouvoir s'autoriser à remettre en cause quelques choix.
+2. Le Shotokan est issue de l'adaptation du karaté d'Okinawa au contexte de la metropole japonaise de l'époque:
     1. Jigoro Kano, le fondateur du judo, a aidé Gichin Funakoshi à s'installer à Tokyo. Funakoshi aurait alors
        décidé de ne pas inclure les techniques de projections et de lutte dans le Shotokan pour éviter la concurrence
        avec le judo, qui était déjà bien établi et respecté.
@@ -237,11 +240,11 @@ Dans ma conception du karaté, un karateka devrait à la fois être:
 
 ## Trois aspects
 
-De par mon experience en karate Shotokan traditionnel, compétitions kata et kumite WKF, autodefense au krav maga,
-et karate mixte au kudo, je constate des incompatibilités entre ce que chaque discipline considère comme l'objectif
+De par mon experience en karaté Shotokan traditionnel, compétitions kata et kumite WKF, autodefense au krav maga,
+et karaté mixte au kudo, je constate des incompatibilités entre ce que chaque discipline considère comme l'objectif
 de l'art martial, l'efficacité au combat, les exercices pour y parvenir et les critères de réussite.
 
-Un angle que j'ai trouvé pour concilier ces differences est de distinguer trois aspects ou facettes dans le karaté
+Un angle que j'ai trouvé pour concilier ces différences est de distinguer trois aspects ou facettes dans le karaté
 moderne:
 
 1. tradition
@@ -292,7 +295,7 @@ s'agit d'un exercice de tradition, et non de compétition ou d'autodéfense.
         7. Par l'effort d'adaptation à des situations nouvelles, que ce soit sur un kihon complexe decouvert pour la
            premiere fois, un nouveau kata ou un combat libre.
         8. Par l'effort d'interpretation des katas et des kihons.
-        9. Par la lecture des livres de karate (Ex: les 20 préceptes de Funakoshi)
+        9. Par la lecture des livres de karaté (Ex: les 20 préceptes de Funakoshi)
     2. Physiquement:
         1. Par le developpement de la force, de la souplesse, de l'endurance, de la coordination, de l'équilibre et de
            la
@@ -306,7 +309,7 @@ s'agit d'un exercice de tradition, et non de compétition ou d'autodéfense.
        le
        karaté pour en faire un outil d'éducation pour les enfants. Itosu auraient créé les Heian/Pinan pour les
        enfants.
-2. Preserver sa santé pour pratiquer le karate tout au long de sa vie.
+2. Preserver sa santé pour pratiquer le karaté tout au long de sa vie.
     1. Attaques réalisées avec controle pour éviter les blessures
     2. Postures saines:
         - Dos droit
@@ -323,13 +326,13 @@ s'agit d'un exercice de tradition, et non de compétition ou d'autodéfense.
        martial. Combien ont commencé le karaté parce qu'ils ont été émerveillés par un film de Bruce Lee, un film
        d'animation japonaise ou une démonstration de kata ? Peut-être plus que ce qui sont venus pour apprendre à se
        défendre ou pour faire de l'exercice.
-       L'esthétique du karate traditionnel est complexe, on peut distinguer ces aspects:
+       L'esthétique du karaté traditionnel est complexe, on peut distinguer ces aspects:
         - techniques exterieurs (tachi, uke, uchi)
         - techniques interieurs (respiration, gainage, relachement, kime, hara),
         - enchainements de techniques (kata, kihon, kumite traditionnels),
         - langage corporel (impassibilité, determination)
         - rythmes d'exécution
-        - tenue vestimentaire: oki, karategi et le bruit du karategi quand les techniques sont executées avec kime.
+        - tenue vestimentaire: oki, karatégi et le bruit du karatégi quand les techniques sont executées avec kime.
     3. La tradition esthétique est un sujet difficile à critiquer rationnellement, car il y a une part importante de
        choix subjectif. On ne va pas critique un danseur de jazz parce qu'il fait des pas qui ne font pas partie de la
        tradition du ballet. C'est par pareil pour l'esthétique traditionnelle en karaté, elle a été établie pas des
@@ -345,7 +348,7 @@ s'agit d'un exercice de tradition, et non de compétition ou d'autodéfense.
     1. Kihon
     2. Kata
     3. Kumite traditionnels
-2. La pedagogie traditionnelle du karate Shotokan pour débutant peut-etre comparée à celle de la danse classique. On
+2. La pedagogie traditionnelle du karaté Shotokan pour débutant peut-etre comparée à celle de la danse classique. On
    commence par "chasser" le naturel des élèves en les poussant peu à peu à adopter une forme de corps très précise et
    rigoureuse. L'objectif est de donner aux élèves une pleine maitrise du potentiel de leur corps par leur esprit,
    plutôt que de rester exclaves de quelques formes preferées acquises precedemment sans intention particulière. C'est
@@ -460,12 +463,12 @@ Non, il y a plusieurs manières de redécouvrir des techniques potentiellement p
 
 - chercher dans les racines du karaté: Kata (et leurs différentes versions dans différentes écoles), les livres anciens,
   les styles qui sont restés plus proche de la source, comme à Okinawa (ex: Shorin-ryu ancêtre/cousin le Shotokan). Les
-  livres, ex : projections dans karate do kyohan.
+  livres, ex : projections dans karaté do kyohan.
 - Expérimenter en club, stages et compétitions.
 - Aller voir des arts martiaux indépendants du karaté, on trouvera de nombreux points communs liés au fait qu'on
   travaille à peu près avec la même biomécanique humaine, mais aussi des difference d'approches très enrichissantes.
 
-Concernant les autres martiaux, il faut apprendre à de mettre de côté son égo (et son conservatisme) de karateka et
+Concernant les autres martiaux, il faut apprendre à de mettre de côté son égo (et son conservatisme) de karatéka et
 d'aller à la rencontrer d'autres disciplines qui ont redécouvert ou continué de développer ces techniques, et les ont
 peaufinées dans des competitions de haut niveau ou dans un cadre professionnel, pour apprendre à leur contact.
 C'est un point fort pour une technique que d'exister aussi en dehors du karaté. C'est
@@ -618,8 +621,8 @@ Sortir du carcan des kamae traditionnel avec postures longues et hikite à la ha
    Quelle est la raison de cette règle etonnante? J'ose esperer que ce n'est pour permettre à des gradés en karaté de se
    presenter comme compétents pour ouvrir des classes de disciplines porteuses comme le krav maga et le MMA sans se
    fatiguer à passer des examens pour prouver leur compétence ?
-   Que les choses soient claires, la grande majorité des 1e dan de karate traditionnel n'ont pas les connaissances
-   necessaires pour passer le 1er dan de krav maga, de karate contact ou autre discipline de la federation, sans un
+   Que les choses soient claires, la grande majorité des 1e dan de karaté traditionnel n'ont pas les connaissances
+   necessaires pour passer le 1er dan de krav maga, de karaté contact ou autre discipline de la federation, sans un
    entrainement specifique.
    Cela peut pousser les pratiquants à s'inscrire dans des federations rivales pour obtenir une reconnaissance de grade.
 3. Plutôt que de contraindre l'interdisciplinarité, il faut la célébrer:
@@ -637,10 +640,10 @@ Sortir du carcan des kamae traditionnel avec postures longues et hikite à la ha
 
 - 25 ans de pratique du Shotokan commencée à 7 ans, au Karate Club de Suresnes avec Pierre Blot, Pascal Pinault et
   Patrice Lasvesne (principalement).
-- 4e dan de karate Shotokan de la Féderation Française de Karaté
+- 4e dan de karaté Shotokan de la Féderation Française de Karaté
 - 1e dan de krav maga, 3 ans au Maccabi Paris avec David Sarfati.
 - 2 ans de kudo au Daido Juku Shibuya à Tokyo avec Higaniwa senpai.
-- 1 an de karate Shotokan JKA au dojo Hoitsugan à Tokyo avec Takahashi sensei et Taniyama sensei.
+- 1 an de karaté Shotokan JKA au dojo Hoitsugan à Tokyo avec Takahashi sensei et Taniyama sensei.
 - 6 mois de jujutsu bresilien avec Gilles Arsènes au Maccabi Paris
 - Nombreux stages avec des experts federaux en France, principalement: Jean-Louis Morel, Pierre Berthier, Serge Serfati,
   Jean-Pierre Lavoratto.
@@ -648,9 +651,9 @@ Sortir du carcan des kamae traditionnel avec postures longues et hikite à la ha
   kata par equipes, podiums en championnats departementaux 92 kata/kumite et multiples selections pour les championnats
   de France kata/kumite).
 
-### Avis libre d'un karateka non-professionnel
+### Avis libre d'un karatéka non-professionnel
 
-Un karateka amateur a l'inconvénient de ne pas pouvoir me consacrer à plein temps au karaté. Mais, il a l'avantage de ne
+Un karatéka amateur a l'inconvénient de ne pas pouvoir me consacrer à plein temps au karaté. Mais, il a l'avantage de ne
 pas dépendre de son activité dans le karaté pour gagner ma vie. Cela offre une liberté de propos plus grande que quand
 on doit maintenir des relations professionnelles et commerciales pour garantir son revenu.
 

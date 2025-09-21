@@ -1,6 +1,6 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Un regard critique sur karaté Shotokan d'aujourd'hui au service d'une vision progressiste du karaté de demain.
+Un regard critique sur le karaté Shotokan d'aujourd'hui au service d'une vision progressiste du karaté de demain.
 
 * [Avant-propos](#avant-propos)
 * [Les limites critiquables de la pratique traditionnelle](#les-limites-critiquables-de-la-pratique-traditionnelle)

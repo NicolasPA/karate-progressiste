@@ -120,7 +120,7 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
    ses limites personnelles.
 3. À force ne de se concentrer que sur des exercices, on devient un expert de ces exercices. On se met ensuite à créer
    des exercices spécifiques pour entraîner à ce nouvel objectif plutôt que pour le combat.
-   On ne peut devenir compétant que sur ce qu'on pratique pendant des annees. Si vous vous consacrez assidûment, durant
+   On ne peut devenir compétant que sur ce qu'on pratique pendant des années. Si vous vous consacrez assidûment, durant
    20 ans, au kata, kihon et ippon kumite, vous avez de bonnes chances de devenir bon en kata, kihon et ippon kumite.
    Mais, il est peu probable que vous soyez devenu bon en sport de combat de plein contact ou en autodéfense.
 4. La ritualisation des combats avec des règles et des comportements bien précis.
@@ -133,7 +133,7 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
    un employé de bureau, un parent avec enfants à charge, etc.
    Toutefois, il est tout à fait possible de travailler bien plus de situations et de techniques tout en restant dans le
    niveau de risque qui est généralement accepté dans les dojos traditionnels ou les compétitions WKF. Cela entrainant 
-   une meilleure prise de conscience de ses compétences personnelles.
+   une meilleure prise de conscience de ses compétences et ses limites personnelles.
 5. L'accent excessif mis sur la technique décisive empêche le développement de réflexes de défense contre
    contre-attaques et contre-contre-attaque. À la place, il faut pratiquer le retour en garde défensive et à distance de
    sécurité. Y compris avec des attaques servant à revenir en sécurité tout en dissuadant des attaques, comme des
@@ -196,8 +196,8 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
         - comme defense contre saisie, ex: uchi uke pour décrocher une saisie a la gorge ou au poignet.
         - comme technique de lutte: imaginer que l'adverse est déjà au corps à corps avec des saisies verouillées sur 
           soi ouvrent des explications à des mouvements complexes à deux bras comme mawashi uke.
-5. La déconnexion avec la réalité de l'auto-defense dans les attaques les plus travaillées. Les aggressions sont
-   statiquement plus souvent, faites de frappes circulaires et de saisies qui se transforment en lutte. Ces techniques
+5. La déconnexion avec la réalité de l'auto-defense dans les attaques les plus travaillées. Les aggressions sont,
+   statiquement, plus souvent faites de frappes circulaires et de saisies qui se transforment en lutte. Ces techniques
    sont peu ou pas travaillés en Shotokan traditionnel.
 
 ### Les possibles origines historiques de ces limites

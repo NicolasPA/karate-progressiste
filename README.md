@@ -67,8 +67,8 @@ réelle.
 Dans ma conception du karaté, un karatéka devrait à la fois être:
 
 - détenteur d'une tradition,
-- capable de faire fasse à un combattant de sport de contact avec une duree de pratique comparable
-- capable de faire fasse à une aggression de rue parmi les plus courantes statistiquement
+- capable de faire fasse à un combattant de sport de contact avec une durée de pratique comparable,
+- et capable de faire fasse à une aggression de rue parmi les plus courantes statistiquement.
 
 ## Les limites critiquables de la pratique traditionnelle
 

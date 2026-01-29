@@ -129,7 +129,7 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
    des frappes contrôlées pour ne pas faire mal.
    On reconnait que chaque personne à sa limite concernant l'intensité du contact. Chacun doit juger du bénéfice risque
    d'augmenter l'intensité du combat pour devenir un meilleur combattant par rapport aux risques pour sa santé.
-   La situation n'est pas la peine selon qu'on est un compétiteur de MMA, un professionnel de la sécurité, un artisan,
+   La situation n'est pas la même selon qu'on est un compétiteur de MMA, un professionnel de la sécurité, un artisan,
    un employé de bureau, un parent avec enfants à charge, etc.
    Toutefois, il est tout à fait possible de travailler bien plus de situations et de techniques tout en restant dans le
    niveau de risque qui est généralement accepté dans les dojos traditionnels ou les compétitions WKF. Cela entrainant 
@@ -154,9 +154,9 @@ Dans ma conception du karaté, un karatéka devrait à la fois être:
 #### Les limites techniques
 
 1. Limiter ses techniques à celles des katas et un nombre restreint de techniques approuvées par la hiérarchie.
-   Les katas et la tradition devraient etre une source d'inspiration et non une source de limitations. Si des techniques
+   Les katas et la tradition devraient être une source d'inspiration et non une source de limitations. Si des techniques
    font preuve de leur efficacité dans le sport de contact de haut niveau ou chez les professionnels de la sécurité,
-   elles devraient etre intégrées au karaté. Certaines de ces techniques sont plus ou moins identifiables dans les
+   elles devraient être intégrées au karaté. Certaines de ces techniques sont plus ou moins identifiables dans les
    katas, on peut souvent en deduire que "tout est deja dans le karaté", mais si elles ne sont pas suffisamment
    pratiquées pour être appliquées en combat sous pression, c'est comme si elles n'existaient pas.
    Ex:
@@ -307,13 +307,13 @@ s'agit d'un exercice de tradition, et non de compétition ou d'autodéfense.
             1. Le principe qu'il n'y a pas de première attaque dans le Shotokan se retrouve dans le fait que le rôle
                principal dans les deux-par-deux est donné à celui qui recoit la première attaque (uke), il doit se
                defendre contre l'attaque et contre-attaquer de manière à mettre fin à l'aggression.
-               De même, Les bunkai sont majoritairement interprétés du point de vue de la defense.
+               Les katas commencent en général par des techniques interprétées comme défensives. De même, les bunkai sont majoritairement interprétés du point de vue de la defense.
     3. Éducation des enfants: Funakoshi, et l'un de ses professeurs Itosu Ankoh étaient maîtres d'école, ils ont adapté
        le
-       karaté pour en faire un outil d'éducation pour les enfants. Itosu auraient créé les Heian/Pinan pour les
-       enfants.
+       karaté pour en faire un outil d'éducation pour les enfants. Itosu auraient créé la série  des Pinan/Heian pour les
+       enfants à partir d'éléments de Kata plus longs et difficiles (Kusanku/Kanku).
 2. Preserver sa santé pour pratiquer le karaté tout au long de sa vie.
-    1. Attaques réalisées avec controle pour éviter les blessures
+    1. Attaques réalisées avec contrôle pour éviter les blessures
     2. Postures saines:
         - Dos droit
         - Épaules basses
@@ -327,7 +327,7 @@ s'agit d'un exercice de tradition, et non de compétition ou d'autodéfense.
        Elle est importante pour favoriser la transmission comme dans les poèmes épiques de l'antiquité. Elle marque les
        esprits et elle crée l'émotion d'émerveillement qui potentiellement donnera envie aux gens de commencer un art
        martial. Combien ont commencé le karaté parce qu'ils ont été émerveillés par un film de Bruce Lee, un film
-       d'animation japonaise ou une démonstration de kata ? Peut-être plus que ce qui sont venus pour apprendre à se
+       d'animation japonaise ou une démonstration de kata ? Peut-être plus que ceux qui sont venus pour apprendre à se
        défendre ou pour faire de l'exercice.
        L'esthétique du karaté traditionnel est complexe, on peut distinguer ces aspects:
         - techniques exterieurs (tachi, uke, uchi)
@@ -335,11 +335,11 @@ s'agit d'un exercice de tradition, et non de compétition ou d'autodéfense.
         - enchainements de techniques (kata, kihon, kumite traditionnels),
         - langage corporel (impassibilité, determination)
         - rythmes d'exécution
-        - tenue vestimentaire: oki, karatégi et le bruit du karatégi quand les techniques sont executées avec kime.
+        - tenue vestimentaire: obi, karatégi et le bruit du karatégi quand les techniques sont executées avec kime.
     3. La tradition esthétique est un sujet difficile à critiquer rationnellement, car il y a une part importante de
        choix subjectif. On ne va pas critique un danseur de jazz parce qu'il fait des pas qui ne font pas partie de la
-       tradition du ballet. C'est par pareil pour l'esthétique traditionnelle en karaté, elle a été établie pas des
-       maîtres successifs pour parti sans raison rationnel, simplement par goût esthétique, puisqu'ils se sont
+       tradition du ballet. C'est pareil pour l'esthétique traditionnelle en karaté, elle a été établie pas des
+       maîtres successifs, probablement pour partie sans raison rationnelle, simplement par goût esthétique, puisqu'ils se sont
        detachés de la recherche d'efficacité en combat qui necessite la pratique du combat sous pression pour perdurer.
        Il s'agit alors de pratiquer l'art pour l'art, c'est tout autant respectable que de devenir un expert d'un style
        de danse, et certains peuvent s'en satisfaire. On peut tout de même exiger que ces pratiquants reconnaissent que
@@ -354,7 +354,7 @@ s'agit d'un exercice de tradition, et non de compétition ou d'autodéfense.
 2. La pedagogie traditionnelle du karaté Shotokan pour débutant peut-etre comparée à celle de la danse classique. On
    commence par "chasser" le naturel des élèves en les poussant peu à peu à adopter une forme de corps très précise et
    rigoureuse. L'objectif est de donner aux élèves une pleine maitrise du potentiel de leur corps par leur esprit,
-   plutôt que de rester exclaves de quelques formes preferées acquises precedemment sans intention particulière. C'est
+   plutôt que de rester exclaves de quelques formes preferées acquises précédemment sans intention particulière. C'est
    environ le niveau 1ᵉ dan. C'est ainsi qu'on peut commencer à se preparer à l'infinité des situations du combat.
    C'est seulement aprés avoir remis à plat leur gestuelle, qu'on peut commencer à réintroduire du naturel et de
    l'instinctif, sans être limité par les preferences innées. Si la base du karaté traditionnel est similaire à la base
@@ -375,11 +375,12 @@ Comment juge-t-on de la qualite du travail?
 
 #### Objectifs
 
-1. Se sortir d'une agression physique avec un minimum de consequences negatives.
-2. Sortir ses proches d'une agression physique. (De la même maniere que dans un avion, les consignes de securité
+1. Éviter toute situation pouvant mener à une aggression physique.
+2. Se sortir d'une agression physique avec un minimum de consequences negatives.
+3. Sortir ses proches d'une agression physique. (De la même maniere que dans un avion, les consignes de securité
    indiquent de d'abord mettre son propre masque à oxygene avant d'aider les autres à mettre le leur, on ne peut
-   correctement proteger les autres que si on est soi-même en securité.)
-3. Apprendre à se defendre dans le respect de la loi : proportionnalité, légitime défense, etc.
+   correctement proteger les autres que si on est soi-même en securité.) Sortir un inconnu d'une agression physique est en principe le rôle de la police. L'impulsion honorable de vouloir aider un inconnu risque d'aggraver une situation pour un bénéfice potentiel plus faible par rapport au fait de secourir un proche pour lequel on a une responsabilité légitime.
+4. Apprendre à se defendre dans le respect de la loi : proportionnalité, légitime défense, etc.
 
 #### Exercices
 
@@ -464,19 +465,19 @@ comme perdues?
 
 Non, il y a plusieurs manières de redécouvrir des techniques potentiellement perdues:
 
-- chercher dans les racines du karaté: Kata (et leurs différentes versions dans différentes écoles), les livres anciens,
-  les styles qui sont restés plus proche de la source, comme à Okinawa (ex: Shorin-ryu ancêtre/cousin le Shotokan). Les
-  livres, ex : projections dans karaté do kyohan.
+- chercher dans les racines du karaté: Kata (et leurs différentes versions dans différentes écoles), les livres anciens (ex: Bubishi),
+  les styles qui sont restés plus proche de la source, comme à Okinawa (ex: Shorin-ryu ancêtre/cousin le Shotokan, sans ignorer qu'ils ont aussi évolué et ne sont ce qu'ils étaient il y a un siècle). Les
+  livres plus récents, ex : projections dans karaté do kyohan.
 - Expérimenter en club, stages et compétitions.
 - Aller voir des arts martiaux indépendants du karaté, on trouvera de nombreux points communs liés au fait qu'on
   travaille à peu près avec la même biomécanique humaine, mais aussi des difference d'approches très enrichissantes.
 
-Concernant les autres martiaux, il faut apprendre à de mettre de côté son égo (et son conservatisme) de karatéka et
-d'aller à la rencontrer d'autres disciplines qui ont redécouvert ou continué de développer ces techniques, et les ont
+Concernant les autres martiaux, il faut apprendre à mettre de côté son égo (et son conservatisme) de karatéka et
+à aller à la rencontrer d'autres disciplines qui ont redécouvert ou continué de développer ces techniques, et les ont
 peaufinées dans des competitions de haut niveau ou dans un cadre professionnel, pour apprendre à leur contact.
 C'est un point fort pour une technique que d'exister aussi en dehors du karaté. C'est
-comme une experience scientifique confirmée par deux chercheurs totalement independants, la resultat est d'autant plus
-robuste qu'il dépend moins de la personne et du context.
+comme une experience scientifique confirmée par deux chercheurs totalement indépendants, le resultat est d'autant plus
+robuste qu'il dépend moins de la personne et du contexte.
 
 C'est d'ailleurs une excellente manière de trouver de nouvelles idees d'interprétation de passages de kata.
 Par exemple, nombre de défenses contre saisies enseignees au krav maga, ou techniques de lutte en kudo, peuvent être
@@ -591,8 +592,8 @@ Sortir du carcan des kamae traditionnel avec postures longues et hikite à la ha
   Ils ont l'avantage de pouvoir d'être portés par un partenaire mobile qui peut varier les niveaux, les attaques, les
   feintes, les esquives, etc.
   On peut presque tout travailler avec l'avantage de pouvoir frapper pleine puissance.
-  Cela semble être l'outil idéal pour ceux qui veulent travailler leur "attaques décisives".
-  Ils permettent aussi de travailler le renforcement des articulations, les douleurs de contact et la capacité à
+  Cela semble être l'outil idéal pour ceux qui veulent travailler leurs "attaques décisives".
+  Ils permettent aussi de travailler le renforcement des articulations, l'amélioration techniques pour éviter douleurs de contact et la capacité à
   encaisser pour celui qui tient les cibles.
 
 ### Adapter les exercices traditionnels aux 2 autres aspects
